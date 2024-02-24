@@ -1,3 +1,3 @@
 ## Spring boot + Vaadin
 
-spring fans: your code is bad in production
+socket app for communicating using vaadin and spring
